@@ -1,0 +1,9 @@
+{
+  "rate": "1 {{from}} = {{rate}} {{to}}",
+  "youReceive": "You'll receive",
+  "priceImpact": "Price impact",
+  "loading": "Calculating...",
+  "noQuote": "Enter amount to see quote",
+  "highImpactTitle": "High Price Impact",
+  "highImpactMessage": "This swap has a high price impact. Consider reducing the amount."
+}

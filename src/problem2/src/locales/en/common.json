@@ -1,0 +1,41 @@
+{
+  "buttons": {
+    "select": "Select",
+    "choose": "Choose a token",
+    "exchange": "Exchange",
+    "processing": "Processing",
+    "search": "Search tokens...",
+    "noTokensFound": "No tokens found",
+    "tryAdjusting": "Try adjusting your search",
+    "close": "Close"
+  },
+  "labels": {
+    "from": "From",
+    "to": "To",
+    "selectTokenFrom": "Select token to swap from",
+    "selectTokenTo": "Select token to swap to",
+    "popular": "Popular",
+    "allTokens": "All Tokens"
+  },
+  "placeholders": {
+    "amount": "0.00",
+    "searchTokens": "Search tokens..."
+  },
+  "messages": {
+    "sameToken": "Cannot swap the same token",
+    "swapSuccess": "Swap completed successfully! Transaction: {{hash}}...",
+    "swapFailed": "Swap failed",
+    "swapError": "An unexpected error occurred during the swap",
+    "noPrice": "No price"
+  },
+  "accessibility": {
+    "tokenLogo": "{{name}} logo",
+    "defaultTokenLogo": "Token logo"
+  },
+  "header": {
+    "logo": "99tech - problem 2"
+  },
+  "footer": {
+    "description": "99tech - Problem 2 Fancy Form"
+  }
+}
