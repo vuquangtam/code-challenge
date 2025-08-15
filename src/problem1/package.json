@@ -1,0 +1,27 @@
+{
+  "name": "problem1-sum-to-n",
+  "version": "1.0.0",
+  "description": "Three ways to sum to n - Problem 1 solution with Vitest",
+  "main": "sum_to_n.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "@vitest/ui": "^1.0.0",
+    "@vitest/coverage-v8": "^1.0.0"
+  },
+  "keywords": [
+    "algorithm",
+    "sum",
+    "mathematical",
+    "recursive",
+    "iterative"
+  ],
+  "author": "Code Challenge",
+  "license": "MIT"
+}
